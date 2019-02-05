@@ -1,5 +1,5 @@
-require 'rails_helper'
+# require 'rails_helper'
 
-RSpec.describe RecipesController, type: :controller do
+# RSpec.describe RecipesController, type: :controller do
 
-end
+# end
